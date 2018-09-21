@@ -126,11 +126,11 @@ $(function () {
 
     }
 
-    $('.boxContent').on("click", function () {
+    // $('.boxContent').on("click", function () {
 
-        $(this).parents('.box').find(my_img).trigger("click");
+    //     $(this).parents('.box').find(my_img).trigger("click");
 
-    });
+    // });
 
     /*----------------------------------------
         06. owl.carousel plugin
